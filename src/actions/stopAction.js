@@ -1,4 +1,4 @@
-export const stoptAction = {
+export const stopAction = {
   type: "rotate",
   payload: false
 };
